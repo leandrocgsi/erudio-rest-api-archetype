@@ -82,4 +82,4 @@ Now we have one structure similar to image bellow. As you can see, on *Markers t
 
 ![Final](https://github.com/leandrocgsi/erudio-rest-api-archetype/blob/master/img/14-Final.png?raw=true)
 
-Now to execute your projetc [click here](https://github.com/leandrocgsi/erudio-api-oauth2) and follow the steps.
+Now to execute your project [click here](https://github.com/leandrocgsi/erudio-api-oauth2) and follow the steps.
