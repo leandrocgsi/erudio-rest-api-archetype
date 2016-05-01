@@ -2,6 +2,10 @@
 
 This is one archetype that can possibilite create a simple REST API in minutes
 
+```
+git clone https://github.com/leandrocgsi/erudio-rest-api-archetype.git
+```
+
 ![OpenFolder](https://github.com/leandrocgsi/erudio-rest-api-archetype/blob/master/img/1-OpenFolder.png?raw=true)
 
 
