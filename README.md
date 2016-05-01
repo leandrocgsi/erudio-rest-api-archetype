@@ -1,6 +1,22 @@
 # Erudio REST API Archetype(erudio-rest-api-archetype)
 
-This is one archetype that can possibilite create a simple REST API in minutes
+This is one archetype that can give you power to create a simple REST API in minutes. The generated project REST service that provides some RESTful endpoints protected by OAuth 2. This archetype is based in [Erudio API OAUTH2](https://github.com/leandrocgsi/erudio-api-oauth2). This project incorporates the new Java-based configuration support, now available in Spring Security OAuth 2.0. 
+
+
+# Open Source Used Projects
+
+The following Open Source projects are used in this sample app:
+
+* [Spring Boot](http://projects.spring.io/spring-boot/)
+* [Spring MVC](http://docs.spring.io/spring/docs/current/spring-framework-reference/html/mvc.html)
+* [Spring Security](http://projects.spring.io/spring-security/)
+* [Spring Security OAuth](http://projects.spring.io/spring-security-oauth/)
+* [Spring Data JPA](http://projects.spring.io/spring-data-jpa/)
+* [Swagger](http://swagger.io/) see more [here](http://jakubstas.com/spring-jersey-swagger-create-documentation/) and [here](http://jakubstas.com/spring-jersey-swagger-exposing-documentation/)
+* [Groovy](http://www.groovy-lang.org/)
+* [Jasper Reports](http://community.jaspersoft.com/)
+* [Orika Mapper](http://orika-mapper.github.io/orika-docs/converters.html)
+* [Hibernate](http://hibernate.org/)
 
 ```
 git clone https://github.com/leandrocgsi/erudio-rest-api-archetype.git
