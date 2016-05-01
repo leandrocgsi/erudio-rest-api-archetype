@@ -6,6 +6,15 @@ This is one archetype that can possibilite create a simple REST API in minutes
 
 ![CleanInstall](https://github.com/leandrocgsi/erudio-rest-api-archetype/blob/master/img/2-CleanInstall.png?raw=true)
 
+```
+mvn archetype:generate 
+	-DarchetypeGroupId=br.com.erudio
+	-DarchetypeArtifactId=erudio-rest-api-archetype
+	-DarchetypeVersion=0.1.0
+	-DgroupId=br.com.your.domain
+	-DartifactId=your-project-name
+```
+
 ![GenerateProject](https://github.com/leandrocgsi/erudio-rest-api-archetype/blob/master/img/3-GenerateProject.png?raw=true)
 
 ![Building1](https://github.com/leandrocgsi/erudio-rest-api-archetype/blob/master/img/4-Building.png?raw=true)
