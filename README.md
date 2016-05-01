@@ -66,6 +66,8 @@ As on image bellow type your Root Directory (where we found your code) and click
 
 ![Importing2](https://github.com/leandrocgsi/erudio-rest-api-archetype/blob/master/img/10-Importing.png?raw=true)
 
+Probably you see the following errors, dont be worry just click in Finish again.
+
 ![Importing3](https://github.com/leandrocgsi/erudio-rest-api-archetype/blob/master/img/11-Importing.png?raw=true)
 
 ![CreatingSourceFolders1](https://github.com/leandrocgsi/erudio-rest-api-archetype/blob/master/img/12-CreatingSourceFolders.png?raw=true)
