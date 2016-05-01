@@ -4,6 +4,11 @@ This is one archetype that can possibilite create a simple REST API in minutes
 
 ![OpenFolder](https://github.com/leandrocgsi/erudio-rest-api-archetype/blob/master/img/1-OpenFolder.png?raw=true)
 
+
+```
+mvn clean install
+```
+
 ![CleanInstall](https://github.com/leandrocgsi/erudio-rest-api-archetype/blob/master/img/2-CleanInstall.png?raw=true)
 
 ```
