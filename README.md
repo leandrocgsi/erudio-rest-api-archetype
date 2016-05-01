@@ -39,6 +39,8 @@ It's can be should look like the image below.
 
 ![CleanInstall](https://github.com/leandrocgsi/erudio-rest-api-archetype/blob/master/img/2-CleanInstall.png?raw=true)
 
+Now go to the directory where you want to create your project and run the command below.
+
 ```
 mvn archetype:generate 
 	-DarchetypeGroupId=br.com.erudio
@@ -47,6 +49,8 @@ mvn archetype:generate
 	-DgroupId=br.com.your.domain
 	-DartifactId=your-project-name
 ```
+
+It's can be should look like the image below.
 
 ![GenerateProject](https://github.com/leandrocgsi/erudio-rest-api-archetype/blob/master/img/3-GenerateProject.png?raw=true)
 
