@@ -62,6 +62,8 @@ Now we just import our project in favorite IDE (Eclipse in this example). Go to 
 
 ![Importing1](https://github.com/leandrocgsi/erudio-rest-api-archetype/blob/master/img/9-Importing.png?raw=true)
 
+As on image bellow type your Root Directory (where we found your code) and click in Browse >> Finish.
+
 ![Importing2](https://github.com/leandrocgsi/erudio-rest-api-archetype/blob/master/img/10-Importing.png?raw=true)
 
 ![Importing3](https://github.com/leandrocgsi/erudio-rest-api-archetype/blob/master/img/11-Importing.png?raw=true)
