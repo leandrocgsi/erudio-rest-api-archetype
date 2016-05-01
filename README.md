@@ -78,4 +78,8 @@ In next window in Folder Name type *src/main/groovy*, repeat this proccess with 
 
 ![CreatingSourceFolders2](https://github.com/leandrocgsi/erudio-rest-api-archetype/blob/master/img/13-CreatingSourceFolders-CreatingSourceFolders.png?raw=true)
 
+Now we have one structure similar to image bellow. As you can see, on *Markers tab*, we have some erros but dont be worry just click with right button and delete they.
+
 ![Final](https://github.com/leandrocgsi/erudio-rest-api-archetype/blob/master/img/14-Final.png?raw=true)
+
+Now to execute your projetc [click here](https://github.com/leandrocgsi/erudio-api-oauth2) and follow the steps.
