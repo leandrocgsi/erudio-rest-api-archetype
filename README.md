@@ -28,14 +28,6 @@ mvn archetype:generate
 
 ![Building1](https://github.com/leandrocgsi/erudio-rest-api-archetype/blob/master/img/4-Building.png?raw=true)
 
-![Building2](https://github.com/leandrocgsi/erudio-rest-api-archetype/blob/master/img/5-Building.png?raw=true)
-
-![Building3](https://github.com/leandrocgsi/erudio-rest-api-archetype/blob/master/img/6-Building.png?raw=true)
-
-![Building4](https://github.com/leandrocgsi/erudio-rest-api-archetype/blob/master/img/7-Building.png?raw=true)
-
-![Building5](https://github.com/leandrocgsi/erudio-rest-api-archetype/blob/master/img/8-Building.png?raw=true)
-
 ![Importing1](https://github.com/leandrocgsi/erudio-rest-api-archetype/blob/master/img/9-Importing.png?raw=true)
 
 ![Importing2](https://github.com/leandrocgsi/erudio-rest-api-archetype/blob/master/img/10-Importing.png?raw=true)
