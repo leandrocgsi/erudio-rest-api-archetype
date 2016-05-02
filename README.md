@@ -1,4 +1,4 @@
-# Erudio REST API Archetype
+# Erudio RESTful API Archetype
 
 This is one archetype that can give you power to create a simple REST API in minutes. The generated project REST service that provides some RESTful endpoints protected by OAuth 2. This archetype is based in [Erudio API OAUTH2](https://github.com/leandrocgsi/erudio-api-oauth2). This project incorporates the new Java-based configuration support, now available in Spring Security OAuth 2.0. 
 
