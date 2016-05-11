@@ -3,6 +3,8 @@
 #set( $symbol_escape = '\' )
 package ${package}.restclient.gateway;
 
+import java.io.InputStream;
+
 import org.apache.http.HttpResponse;
 import org.apache.http.HttpStatus;
 import org.apache.http.client.HttpClient;
