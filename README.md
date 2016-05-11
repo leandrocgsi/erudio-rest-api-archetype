@@ -49,6 +49,8 @@ mvn archetype:generate
 	-DarchetypeVersion=0.1.0
 	-DgroupId=br.com.your.domain
 	-DartifactId=your-project-name
+    -Dversion=1.0-SNAPSHOT
+    -Dpackage=br.com.your.domain
 ```
 
 It's can be should look like the image below.
