@@ -91,7 +91,7 @@ Maven ask if you need change version of your project and your package base as is
 
 ![Building1](https://github.com/leandrocgsi/erudio-rest-api-archetype/blob/master/img/4-Building.png?raw=true)
 
-#How to import your project
+# How to import your project
 
 Now we just import our project in favorite IDE (Eclipse in this example). Go to menu File >> Import >> Maven >> Existing Maven Projects >> Next.
 
