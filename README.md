@@ -75,14 +75,14 @@ It's can be should look like the image below.
 Now go to the directory where you want to create your project and run the command below.
 
 ```
-mvn archetype:generate 
-	-DarchetypeGroupId=br.com.erudio
-	-DarchetypeArtifactId=erudio-rest-api-archetype
-	-DarchetypeVersion=0.1.0
-	-DgroupId=br.com.your.domain
-	-DartifactId=your-project-name
-    -Dversion=1.0-SNAPSHOT
-    -Dpackage=br.com.your.domain
+mvn archetype:generate \
+  -DarchetypeGroupId=br.com.erudio \
+  -DarchetypeArtifactId=erudio-rest-api-archetype \
+  -DarchetypeVersion=0.1.0 \
+  -DgroupId=br.com.your.domain \
+  -DartifactId=your-project-name \
+  -Dversion=1.0-SNAPSHOT \
+  -Dpackage=br.com.your.domain
 ```
 
 It's can be should look like the image below.
